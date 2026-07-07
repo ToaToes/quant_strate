@@ -35,3 +35,5 @@ sandbox on crypto trading
 13. 机器学习策略
 
 14. 另类数据（Alternative Data）
+
+指标：离散导数
