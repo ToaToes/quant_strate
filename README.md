@@ -34,9 +34,12 @@ sandbox on crypto trading
 
 13. 机器学习策略
 
+14. 另类数据（Alternative Data）
+
+指标：离散导数
+
+
 从机器学习的角度
-
-
 ```
 均线斜率
 ATR
@@ -50,7 +53,3 @@ Hurst指数
 布林带宽度
 ```
 再由模型（如XGBoost、LightGBM、LSTM等）学习哪些特征组合对应较高的未来上涨或下跌概率，而不是人工规定“这就是趋势”。
-
-14. 另类数据（Alternative Data）
-
-指标：离散导数
